@@ -1,6 +1,8 @@
 # New
-Start doing LeetCode in Jan.2019
+Start doing LeetCode in Jan,2019
 
 
 # onlineJudge
-Some problems solution on different online judge website
+Problems solution on different online judge website
+
+Marking my own coding progress....
