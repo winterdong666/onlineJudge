@@ -6,3 +6,6 @@ Start doing LeetCode in Jan,2019
 Problems solution on different online judge website
 
 Marking my own coding progress....
+
+# Language
+Python3: LeetCode
