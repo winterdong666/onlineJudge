@@ -1,4 +1,6 @@
-# onlineJudge
-Some problems work on different online judge website
+# New
+Start doing LeetCode in Jan.2019
 
-Presently doing some works on LeetCode and OnlineJudge in SJTU.
+
+# onlineJudge
+Some problems solution on different online judge website
