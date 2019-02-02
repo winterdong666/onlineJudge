@@ -18,4 +18,5 @@ class Solution:
         for i in range(len(res1)):
             res1[i].append(tmp[-1])
         res2 = self.combinationSum(tmp[:-1], target)
+        
         return res1 + res2
