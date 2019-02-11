@@ -27,6 +27,7 @@ def findMin(root):
         t2 = findMin(root.right)
     return min(t1, t2, root.val)
 
+
 class Solution:
     def isValidBST(self, root: 'TreeNode') -> 'bool':
         if root == None:
